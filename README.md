@@ -1,4 +1,4 @@
-### Tushar S. Mole 2022BCS0097
+
 # Vehicle Management System
 
 A comprehensive web application for managing vehicles at logistics companies.
@@ -148,7 +148,7 @@ Chat GPT , Gemini CLI
 
 ## 👨‍💻 Developer
 
-Built by Tushar 
+Built by Nikhil Wakode
 
 
 ---
